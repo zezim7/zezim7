@@ -5,7 +5,7 @@
 <rect x="24" y="34" width="88" height="88" rx="18" fill="#112f42" stroke="#ff9a45" stroke-opacity=".65" stroke-width="2"/>
 <g transform="translate(38 43)" fill="none" stroke="#ff9a45" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="M10 23h40l-3 32H13zM20 23v-7a10 10 0 0 1 20 0v7"/><path d="M24 43l7 5 10-12"/></g>
 <text x="139" y="77" fill="#f4f8fb" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">Kativa Wear</text>
-<text x="141" y="106" fill="#b0c1cc" font-family="Segoe UI,Arial,sans-serif" font-size="17">Fashion & commerce</text>
+<text x="141" y="106" fill="#b0c1cc" font-family="Segoe UI,Arial,sans-serif" font-size="17">Fashion &amp; commerce</text>
 <rect x="140" y="123" width="165" height="4" rx="2" fill="#ff9a45" opacity=".9"/>
 <path d="M430 15h115m-35 135h36" stroke="#ff9a45" opacity=".26" stroke-width="3"/>
 </svg>
