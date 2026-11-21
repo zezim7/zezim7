@@ -1,40 +1,33 @@
-[Português](https://github.com/zezim7/zezim7/blob/main/README.md) · [English](https://github.com/zezim7/zezim7/blob/main/README.en.md) · [简体中文](https://github.com/zezim7/zezim7/blob/main/README.zh-CN.md)
+[English](https://github.com/zezim7/zezim7/blob/main/README.md) · [Português](https://github.com/zezim7/zezim7/blob/main/README.pt-BR.md) · [简体中文](https://github.com/zezim7/zezim7/blob/main/README.zh-CN.md)
 
-![Gabriel — desenvolvimento, automação e soluções práticas](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0f766e&text=Gabriel&fontSize=62&fontColor=ffffff&fontAlignY=39&desc=Desenvolvimento%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Solu%C3%A7%C3%B5es%20pr%C3%A1ticas&descAlignY=61&descSize=17)
+# Hi, I’m Gabriel 👋
 
-[![Meus projetos](https://img.shields.io/badge/Meus%20projetos-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zezim7?tab=repositories)
-![Foco: automação e produtividade](https://img.shields.io/badge/Foco-automa%C3%A7%C3%A3o%20%26%20produtividade-334155?style=for-the-badge)
+I build Windows apps and browser extensions that take repetitive work out of everyday tasks. I like tools that are easy to use, whether you’re merging scanned documents or scheduling a support ticket.
 
-## 👋 Olá! Eu sou o Gabriel
-
-Gosto de criar **ferramentas que resolvem problemas reais** — desde aplicativos para Windows até extensões de navegador que simplificam tarefas repetitivas.
-
-Meu foco é transformar necessidades do dia a dia em soluções **práticas, funcionais e fáceis de usar**.
-
-## 🚀 Projetos em destaque
+## Featured projects
 
 ### Linceu
 
-Desenvolvi o Linceu em Rust, com interface em Slint, para ver quais aplicativos usam a internet, quanto tráfego geram e com quais servidores se conectam. O firewall permite bloquear a conexão de um aplicativo diretamente no monitor.
+I built Linceu in Rust with a Slint interface to see which apps use the network, how much data they transfer, and which servers they contact. Its firewall lets me block an app directly from the monitor.
 
-<img src="assets/linceu-network.png" alt="Tráfego de rede por aplicativo" width="320">
+<img src="assets/linceu-network.png" alt="Network traffic by application" width="320">
 
 ### Linceu Performance Monitor
 
-Criei este monitor para acompanhar o desempenho de jogos no Windows. A sobreposição exibe FPS, tempo de quadro e temperaturas durante a partida. Depois, posso analisar a sessão em CSV e ajustar as curvas das ventoinhas.
+I built this Windows tool to track game performance. Its in-game overlay shows FPS, frame times, and temperatures. I can export a session to CSV for analysis and tune fan curves.
 
-<img src="assets/linceu-performance.png" alt="Painel de desempenho com dados de demonstração" width="320">
+<img src="assets/linceu-performance.png" alt="Performance dashboard with demo data" width="320">
 
-### Outros projetos
+### Other projects
 
-| Projeto | O que faz | Tecnologias |
-| :--- | :--- | :--- |
-| **Kativa Wear** | Vitrine de moda com painel de curadoria e verificação automática de preços e disponibilidade. | Node.js, Cloudflare Pages, D1 |
-| 📄 **[Conversor PDF](https://github.com/zezim7/Conversor-PDF)** | Aplicativo para Windows que converte diferentes formatos em PDF, combina documentos e oferece recursos para imagens e digitalização. | `C#` `PowerShell` `.NET Framework` |
-| 🎫 **[GLPI Planejador](https://github.com/zezim7/glpi-automacao)** | Extensão para Chrome e Edge que automatiza o planejamento de chamados novos no GLPI, com regras para evitar ações fora do contexto esperado. | `JavaScript` `HTML` `Extensões` |
-| 🔄 **[Recarregar Automaticamente](https://github.com/zezim7/recarregar-automaticamente)** | Extensão para Chrome que atualiza abas em intervalos configuráveis, com controle independente para cada aba. | `JavaScript` `HTML` `CSS` |
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **Kativa Wear** | Fashion storefront with a curation dashboard and automatic price and availability checks. | Node.js, Cloudflare Pages, D1 |
+| [Conversor PDF](https://github.com/zezim7/Conversor-PDF) | Converts files to PDF on Windows, merges documents, and works with images and scans. | C#, PowerShell, .NET Framework |
+| [GLPI Planejador](https://github.com/zezim7/glpi-automacao) | Automates scheduling for new GLPI tickets in Chrome and Edge. Rules determine when the extension should act. | JavaScript, HTML |
+| [Recarregar Automaticamente](https://github.com/zezim7/recarregar-automaticamente) | Automatically refreshes Chrome tabs. You can set a different interval for each tab. | JavaScript, HTML, CSS |
 
-## 🛠️ Tecnologias e ferramentas
+## Tools I use
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -44,15 +37,10 @@ Criei este monitor para acompanhar o desempenho de jogos no Windows. A sobreposi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🎯 O que gosto de desenvolver
+## What I enjoy building
 
-- **Automações:** menos tarefas manuais, mais eficiência.
-- **Aplicativos desktop:** ferramentas úteis para o Windows.
-- **Extensões de navegador:** pequenas soluções que economizam tempo.
-- **Experiência de uso:** interfaces diretas e processos simples.
+I use automation to cut down on manual steps, build desktop tools for Windows, and write browser extensions that save time. Across these projects, I focus on clear interfaces and simple workflows.
 
----
+*Good code makes someone’s day easier.*
 
-*💡 Código bom é aquele que torna a vida de alguém mais simples.*
-
-🔗 [github.com/zezim7](https://github.com/zezim7)
+[Browse my repositories](https://github.com/zezim7?tab=repositories)

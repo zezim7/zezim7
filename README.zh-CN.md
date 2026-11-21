@@ -1,4 +1,4 @@
-[Português](https://github.com/zezim7/zezim7/blob/main/README.md) · [English](https://github.com/zezim7/zezim7/blob/main/README.en.md) · [简体中文](https://github.com/zezim7/zezim7/blob/main/README.zh-CN.md)
+[English](https://github.com/zezim7/zezim7/blob/main/README.md) · [Português](https://github.com/zezim7/zezim7/blob/main/README.pt-BR.md) · [简体中文](https://github.com/zezim7/zezim7/blob/main/README.zh-CN.md)
 
 # 你好，我是 Gabriel 👋
 
