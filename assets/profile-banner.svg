@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="244" viewBox="0 0 1100 244" role="img" aria-label="Gabriel Lau — Software, systems and automation">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#061321"/><stop offset="1" stop-color="#092138"/></linearGradient><linearGradient id="g" x2="1"><stop stop-color="#08c9eb"/><stop offset="1" stop-color="#ff923c"/></linearGradient></defs>
+<rect width="1100" height="244" rx="18" fill="url(#bg)"/>
+<path d="M0 25L25 0H220M0 221L24 244H270" fill="none" stroke="#ff8732" stroke-width="4"/>
+<path d="M700 0L595 91L655 150L570 244M770 0L720 79L806 123L739 244M835 0L900 87L840 157L919 244" fill="none" stroke="#164d6b" stroke-width="1.4"/>
+<g fill="#0bbce1"><circle cx="655" cy="150" r="4"/><circle cx="720" cy="79" r="4"/><circle cx="840" cy="157" r="4"/></g>
+<text x="60" y="93" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="700" letter-spacing="-1">Gabriel Lau</text>
+<text x="61" y="130" fill="#7fe1f3" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2">SOFTWARE  ·  SYSTEMS  ·  AUTOMATION</text>
+<rect x="61" y="158" width="285" height="3" rx="2" fill="url(#g)"/>
+<text x="62" y="188" fill="#a7b8c8" font-family="Segoe UI,Arial,sans-serif" font-size="15">Building useful tools for everyday problems</text>
+<g fill="#0d2b42" stroke="#1ca5cc" stroke-width="1.8">
+<rect x="740" y="35" width="157" height="82" rx="12"/><rect x="921" y="35" width="145" height="82" rx="12"/><rect x="800" y="134" width="266" height="78" rx="12"/>
+</g>
+<g fill="none" stroke="#04d1f6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="752" y="61" width="42" height="32" rx="4"/><path d="M773 93v11m-17 0h34M808 64h67m-67 13h54m-54 13h37"/>
+<path d="M936 92l21-23 18 13 20-29 18 19 32-17"/>
+<rect x="816" y="148" width="50" height="46" rx="6"/><path d="M827 171h28m-14-14v28M885 177h37m-37-13h78m-78 25h112"/>
+</g>
+<g fill="#ff9140"><circle cx="957" cy="69" r="4"/><circle cx="995" cy="53" r="4"/><circle cx="1045" cy="55" r="4"/><rect x="975" y="162" width="60" height="5" rx="2"/></g>
+</svg>

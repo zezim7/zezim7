@@ -1,58 +1,62 @@
-[English](https://github.com/zezim7/zezim7/blob/main/README.md) · [Português](https://github.com/zezim7/zezim7/blob/main/README.pt-BR.md) · [简体中文](https://github.com/zezim7/zezim7/blob/main/README.zh-CN.md)
+[English](README.md) · [Português](README.pt-BR.md) · [简体中文](README.zh-CN.md)
 
-![Gabriel — desenvolvimento, automação e soluções práticas](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0f766e&text=Gabriel&fontSize=62&fontColor=ffffff&fontAlignY=39&desc=Desenvolvimento%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Solu%C3%A7%C3%B5es%20pr%C3%A1ticas&descAlignY=61&descSize=17)
+<div align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Gabriel Lau — Software, systems and automation" />
+</div>
 
-[![Meus projetos](https://img.shields.io/badge/Meus%20projetos-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zezim7?tab=repositories)
-![Foco: automação e produtividade](https://img.shields.io/badge/Foco-automa%C3%A7%C3%A3o%20%26%20produtividade-334155?style=for-the-badge)
+### 👋 Olá! Eu sou Gabriel
 
-## 👋 Olá! Eu sou o Gabriel
+Desenvolvo soluções práticas para Windows, monitoramento de infraestrutura e web — desde diagnósticos de rede e hardware até automação, sistemas de saúde e ferramentas interativas.
 
-Gosto de criar **ferramentas que resolvem problemas reais** — desde aplicativos para Windows até extensões de navegador que simplificam tarefas repetitivas.
+Meu foco é criar **interfaces claras, recursos úteis e fluxos confiáveis para o dia a dia**.
 
-Meu foco é transformar necessidades do dia a dia em soluções **práticas, funcionais e fáceis de usar**.
+### ⚡ Projetos principais
 
-## 🚀 Projetos em destaque
+<table>
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/linceu-network.png" width="280" alt="Linceu network monitoring preview" /><br/>
+  <b>🛡️ Linceu — Network Monitor</b><br/>
+  Monitor de rede e firewall por aplicativo, desenvolvido em **Rust com Slint**. Acompanha tráfego por programa, servidores e dispositivos da rede, com alertas e histórico local.
+</td>
+<td width="50%" valign="top">
+  <img src="assets/linceu-performance.png" width="280" alt="Linceu Performance Monitor dashboard preview" /><br/>
+  <b>📈 Linceu Performance Monitor</b><br/>
+  Monitor de desempenho para Windows com overlay em jogos para FPS, tempos de quadro, GPU/CPU e engasgos, além de **curvas de ventoinhas** e registro de sessões em CSV.
+</td>
+</tr>
+</table>
 
-### Linceu
+### ✨ Outros projetos que desenvolvi
 
-Desenvolvi o Linceu em Rust, com interface em Slint, para ver quais aplicativos usam a internet, quanto tráfego geram e com quais servidores se conectam. O firewall permite bloquear a conexão de um aplicativo diretamente no monitor.
+<table>
+<tr>
+<td width="33%" align="center"><img src="assets/mediflow-card.svg" width="225" alt="MediFlow illustration" /></td>
+<td width="33%" align="center"><img src="assets/kativa-card.svg" width="225" alt="Kativa Wear illustration" /></td>
+<td width="33%" align="center"><img src="assets/hawk-card.svg" width="225" alt="Hawk Thunder illustration" /></td>
+</tr>
+<tr>
+<td valign="top"><b>MediFlow</b><br/>Sistema de gestão para clínicas com check-in, filas por especialidade, área médica, prontuário e painel de chamadas em tempo real. Node.js, JavaScript e SQLite.</td>
+<td valign="top"><b>Kativa Wear</b><br/>Vitrine de moda com curadoria, administração, publicação na nuvem e verificação automática de preços e disponibilidade. Node.js, Cloudflare Pages e D1.</td>
+<td valign="top"><b>Hawk Thunder</b><br/>Site complementar de War Thunder com cálculos de balística e mapas interativos de alvos, usando dados publicados do jogo.</td>
+</tr>
+</table>
 
-<img src="assets/linceu-network.png" alt="Tráfego de rede por aplicativo" width="320">
+### 🧰 Utilitários e experimentos
 
-### Linceu Performance Monitor
+- **[Conversor PDF](https://github.com/zezim7/Conversor-PDF)** — Ferramenta Windows para converter e juntar PDFs, incluindo imagens e documentos digitalizados.
+- **[GLPI Planejador](https://github.com/zezim7/glpi-automacao)** — Extensão para Chrome/Edge que automatiza o planejamento de novos chamados GLPI com regras de segurança.
+- **[Recarregar Automaticamente](https://github.com/zezim7/recarregar-automaticamente)** — Extensão Chrome que recarrega abas em intervalos configuráveis por aba.
+- **GPU Fan Control** — Experimento de controle de ventoinhas no Windows com C# e bibliotecas de monitoramento de hardware.
+- **Zabbix Toolkit** — Templates e scripts de monitoramento para Windows, serviços e infraestrutura.
+- **Linceu Website** — Experiência web para o projeto de monitoramento de desempenho, desenvolvida com React, TypeScript e Vite.
 
-Criei este monitor para acompanhar o desempenho de jogos no Windows. A sobreposição exibe FPS, tempo de quadro e temperaturas durante a partida. Depois, posso analisar a sessão em CSV e ajustar as curvas das ventoinhas.
+### 🛠️ Tecnologias e ferramentas
 
-<img src="assets/linceu-performance.png" alt="Painel de desempenho com dados de demonstração" width="320">
+<img src="https://skillicons.dev/icons?i=rust,cs,dotnet,js,ts,react,nodejs,html,css,sqlite,git,github&perline=12" height="35" alt="Rust, C#, .NET, JavaScript, TypeScript, React, Node.js, HTML, CSS, SQLite, Git, GitHub" />
 
-### Outros projetos
-
-| Projeto | O que faz | Tecnologias |
-| :--- | :--- | :--- |
-| **Kativa Wear** | Vitrine de moda com painel de curadoria e verificação automática de preços e disponibilidade. | Node.js, Cloudflare Pages, D1 |
-| 📄 **[Conversor PDF](https://github.com/zezim7/Conversor-PDF)** | Aplicativo para Windows que converte diferentes formatos em PDF, combina documentos e oferece recursos para imagens e digitalização. | `C#` `PowerShell` `.NET Framework` |
-| 🎫 **[GLPI Planejador](https://github.com/zezim7/glpi-automacao)** | Extensão para Chrome e Edge que automatiza o planejamento de chamados novos no GLPI, com regras para evitar ações fora do contexto esperado. | `JavaScript` `HTML` `Extensões` |
-| 🔄 **[Recarregar Automaticamente](https://github.com/zezim7/recarregar-automaticamente)** | Extensão para Chrome que atualiza abas em intervalos configuráveis, com controle independente para cada aba. | `JavaScript` `HTML` `CSS` |
-
-## 🛠️ Tecnologias e ferramentas
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🎯 O que gosto de desenvolver
-
-- **Automações:** menos tarefas manuais, mais eficiência.
-- **Aplicativos desktop:** ferramentas úteis para o Windows.
-- **Extensões de navegador:** pequenas soluções que economizam tempo.
-- **Experiência de uso:** interfaces diretas e processos simples.
+**Slint · Cloudflare Pages · D1 · PowerShell · Zabbix**
 
 ---
 
-*💡 Código bom é aquele que torna a vida de alguém mais simples.*
-
-🔗 [github.com/zezim7](https://github.com/zezim7)
+<sub>Gosto de desenvolver software que simplifica tarefas complexas. · [GitHub](https://github.com/zezim7)</sub>

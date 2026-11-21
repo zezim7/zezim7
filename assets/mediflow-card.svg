@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="166" viewBox="0 0 560 166" role="img" aria-label="MediFlow">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a192a"/><stop offset="1" stop-color="#0b2737"/></linearGradient></defs>
+<rect width="560" height="166" rx="16" fill="url(#bg)" stroke="#214458" stroke-width="2"/>
+<path d="M1 52V16Q1 1 16 1h132" fill="none" stroke="#00d6ef" stroke-width="4"/>
+<rect x="24" y="34" width="88" height="88" rx="18" fill="#112f42" stroke="#00d6ef" stroke-opacity=".65" stroke-width="2"/>
+<g transform="translate(38 43)" fill="none" stroke="#00d6ef" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="M17 27h12m-6-6v12"/><rect x="7" y="12" width="33" height="40" rx="6"/><path d="M42 18h10m-10 11h12m-12 11h10"/></g>
+<text x="139" y="77" fill="#f4f8fb" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">MediFlow</text>
+<text x="141" y="106" fill="#b0c1cc" font-family="Segoe UI,Arial,sans-serif" font-size="17">Healthcare workflow</text>
+<rect x="140" y="123" width="165" height="4" rx="2" fill="#00d6ef" opacity=".9"/>
+<path d="M430 15h115m-35 135h36" stroke="#00d6ef" opacity=".26" stroke-width="3"/>
+</svg>

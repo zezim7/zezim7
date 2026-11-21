@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="166" viewBox="0 0 560 166" role="img" aria-label="Hawk Thunder">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a192a"/><stop offset="1" stop-color="#0b2737"/></linearGradient></defs>
+<rect width="560" height="166" rx="16" fill="url(#bg)" stroke="#214458" stroke-width="2"/>
+<path d="M1 52V16Q1 1 16 1h132" fill="none" stroke="#00bce8" stroke-width="4"/>
+<rect x="24" y="34" width="88" height="88" rx="18" fill="#112f42" stroke="#00bce8" stroke-opacity=".65" stroke-width="2"/>
+<g transform="translate(38 43)" fill="none" stroke="#00bce8" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><path d="M11 27c4-10 11-12 19-8l6 4c7-5 15-4 18 6l5 17c2 8-4 12-10 7l-9-7H25l-9 7c-7 5-13 1-10-8z"/><path d="M22 30v12m-6-6h12M45 33h0m6 6h0"/></g>
+<text x="139" y="77" fill="#f4f8fb" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">Hawk Thunder</text>
+<text x="141" y="106" fill="#b0c1cc" font-family="Segoe UI,Arial,sans-serif" font-size="17">Game companion tools</text>
+<rect x="140" y="123" width="165" height="4" rx="2" fill="#00bce8" opacity=".9"/>
+<path d="M430 15h115m-35 135h36" stroke="#00bce8" opacity=".26" stroke-width="3"/>
+</svg>
