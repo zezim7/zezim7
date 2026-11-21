@@ -1,3 +1,5 @@
+[Português](https://github.com/zezim7/zezim7/blob/main/README.md) · [English](https://github.com/zezim7/zezim7/blob/main/README.en.md) · [简体中文](https://github.com/zezim7/zezim7/blob/main/README.zh-CN.md)
+
 ![Gabriel — desenvolvimento, automação e soluções práticas](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0f766e&text=Gabriel&fontSize=62&fontColor=ffffff&fontAlignY=39&desc=Desenvolvimento%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Solu%C3%A7%C3%B5es%20pr%C3%A1ticas&descAlignY=61&descSize=17)
 
 [![Meus projetos](https://img.shields.io/badge/Meus%20projetos-0f766e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zezim7?tab=repositories)
