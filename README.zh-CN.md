@@ -10,13 +10,13 @@
 
 我用 Rust 和 Slint 开发了 Linceu，用来查看哪些应用正在联网、各自用了多少流量，以及它们连接了哪些服务器。内置防火墙支持直接阻止指定应用联网。
 
-![按应用查看网络流量](assets/linceu-network.png)
+<img src="assets/linceu-network.png" alt="按应用查看网络流量" width="320">
 
 ### Linceu Performance Monitor
 
 我开发这款 Windows 工具来观察游戏运行表现。游戏内的悬浮面板会显示帧率、帧时间和温度，还可以将监测记录导出为 CSV 供后续分析，并自定义风扇转速曲线。
 
-![使用演示数据的性能面板](assets/linceu-performance.png)
+<img src="assets/linceu-performance.png" alt="使用演示数据的性能面板" width="320">
 
 ### 其他项目
 

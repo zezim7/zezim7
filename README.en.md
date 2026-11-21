@@ -10,13 +10,13 @@ I build Windows apps and browser extensions that take repetitive work out of eve
 
 I built Linceu in Rust with a Slint interface to see which apps use the network, how much data they transfer, and which servers they contact. Its firewall lets me block an app directly from the monitor.
 
-![Network traffic by application](assets/linceu-network.png)
+<img src="assets/linceu-network.png" alt="Network traffic by application" width="320">
 
 ### Linceu Performance Monitor
 
 I built this Windows tool to track game performance. Its in-game overlay shows FPS, frame times, and temperatures. I can export a session to CSV for analysis and tune fan curves.
 
-![Performance dashboard with demo data](assets/linceu-performance.png)
+<img src="assets/linceu-performance.png" alt="Performance dashboard with demo data" width="320">
 
 ### Other projects
 

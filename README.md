@@ -17,13 +17,13 @@ Meu foco é transformar necessidades do dia a dia em soluções **práticas, fun
 
 Desenvolvi o Linceu em Rust, com interface em Slint, para ver quais aplicativos usam a internet, quanto tráfego geram e com quais servidores se conectam. O firewall permite bloquear a conexão de um aplicativo diretamente no monitor.
 
-![Tráfego de rede por aplicativo](assets/linceu-network.png)
+<img src="assets/linceu-network.png" alt="Tráfego de rede por aplicativo" width="320">
 
 ### Linceu Performance Monitor
 
 Criei este monitor para acompanhar o desempenho de jogos no Windows. A sobreposição exibe FPS, tempo de quadro e temperaturas durante a partida. Depois, posso analisar a sessão em CSV e ajustar as curvas das ventoinhas.
 
-![Painel de desempenho com dados de demonstração](assets/linceu-performance.png)
+<img src="assets/linceu-performance.png" alt="Painel de desempenho com dados de demonstração" width="320">
 
 ### Outros projetos
 
