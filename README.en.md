@@ -6,8 +6,23 @@ I build Windows apps and browser extensions that take repetitive work out of eve
 
 ## Featured projects
 
+### Linceu
+
+I built Linceu in Rust with a Slint interface to see which apps use the network, how much data they transfer, and which servers they contact. Its firewall lets me block an app directly from the monitor.
+
+![Network traffic by application](assets/linceu-network.png)
+
+### Linceu Performance Monitor
+
+I built this Windows tool to track game performance. Its in-game overlay shows FPS, frame times, and temperatures. I can export a session to CSV for analysis and tune fan curves.
+
+![Performance dashboard with demo data](assets/linceu-performance.png)
+
+### Other projects
+
 | Project | What it does | Built with |
 | --- | --- | --- |
+| **Kativa Wear** | Fashion storefront with a curation dashboard and automatic price and availability checks. | Node.js, Cloudflare Pages, D1 |
 | [Conversor PDF](https://github.com/zezim7/Conversor-PDF) | Converts files to PDF on Windows, merges documents, and works with images and scans. | C#, PowerShell, .NET Framework |
 | [GLPI Planejador](https://github.com/zezim7/glpi-automacao) | Automates scheduling for new GLPI tickets in Chrome and Edge. Rules determine when the extension should act. | JavaScript, HTML |
 | [Recarregar Automaticamente](https://github.com/zezim7/recarregar-automaticamente) | Automatically refreshes Chrome tabs. You can set a different interval for each tab. | JavaScript, HTML, CSS |

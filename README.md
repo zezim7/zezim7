@@ -13,8 +13,23 @@ Meu foco é transformar necessidades do dia a dia em soluções **práticas, fun
 
 ## 🚀 Projetos em destaque
 
+### Linceu
+
+Desenvolvi o Linceu em Rust, com interface em Slint, para ver quais aplicativos usam a internet, quanto tráfego geram e com quais servidores se conectam. O firewall permite bloquear a conexão de um aplicativo diretamente no monitor.
+
+![Tráfego de rede por aplicativo](assets/linceu-network.png)
+
+### Linceu Performance Monitor
+
+Criei este monitor para acompanhar o desempenho de jogos no Windows. A sobreposição exibe FPS, tempo de quadro e temperaturas durante a partida. Depois, posso analisar a sessão em CSV e ajustar as curvas das ventoinhas.
+
+![Painel de desempenho com dados de demonstração](assets/linceu-performance.png)
+
+### Outros projetos
+
 | Projeto | O que faz | Tecnologias |
 | :--- | :--- | :--- |
+| **Kativa Wear** | Vitrine de moda com painel de curadoria e verificação automática de preços e disponibilidade. | Node.js, Cloudflare Pages, D1 |
 | 📄 **[Conversor PDF](https://github.com/zezim7/Conversor-PDF)** | Aplicativo para Windows que converte diferentes formatos em PDF, combina documentos e oferece recursos para imagens e digitalização. | `C#` `PowerShell` `.NET Framework` |
 | 🎫 **[GLPI Planejador](https://github.com/zezim7/glpi-automacao)** | Extensão para Chrome e Edge que automatiza o planejamento de chamados novos no GLPI, com regras para evitar ações fora do contexto esperado. | `JavaScript` `HTML` `Extensões` |
 | 🔄 **[Recarregar Automaticamente](https://github.com/zezim7/recarregar-automaticamente)** | Extensão para Chrome que atualiza abas em intervalos configuráveis, com controle independente para cada aba. | `JavaScript` `HTML` `CSS` |

@@ -6,8 +6,23 @@
 
 ## 精选项目
 
+### Linceu
+
+我用 Rust 和 Slint 开发了 Linceu，用来查看哪些应用正在联网、各自用了多少流量，以及它们连接了哪些服务器。内置防火墙支持直接阻止指定应用联网。
+
+![按应用查看网络流量](assets/linceu-network.png)
+
+### Linceu Performance Monitor
+
+我开发这款 Windows 工具来观察游戏运行表现。游戏内的悬浮面板会显示帧率、帧时间和温度，还可以将监测记录导出为 CSV 供后续分析，并自定义风扇转速曲线。
+
+![使用演示数据的性能面板](assets/linceu-performance.png)
+
+### 其他项目
+
 | 项目 | 功能 | 使用的技术 |
 | --- | --- | --- |
+| **Kativa Wear** | 时尚商品展示网站，带有选品管理后台，可自动检查价格和库存状态。 | Node.js, Cloudflare Pages, D1 |
 | [Conversor PDF](https://github.com/zezim7/Conversor-PDF) | 在 Windows 上将多种格式的文件转换为 PDF，支持合并文档、处理图像和扫描。 | C#、PowerShell、.NET Framework |
 | [GLPI Planejador](https://github.com/zezim7/glpi-automacao) | 在 Chrome 和 Edge 中自动为 GLPI 的新工单安排处理时间，通过规则判断何时执行操作。 | JavaScript、HTML |
 | [Recarregar Automaticamente](https://github.com/zezim7/recarregar-automaticamente) | 自动刷新 Chrome 标签页，可以为每个标签页单独设置刷新间隔。 | JavaScript、HTML、CSS |
